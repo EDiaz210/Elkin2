@@ -3,7 +3,9 @@ public class Ejercicio1 {
         System.out.println("Elkin Diaz");
         System.out.println("20");
         System.out.println("Sangolqui");
-        System.out.println("0967767162");
+
+
+
 
 
     }
